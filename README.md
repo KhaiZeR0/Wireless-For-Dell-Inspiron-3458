@@ -21,7 +21,7 @@ I recommended using DW1820a, DW1560, bcm943324PCIEBT2 and some other native Real
 
 - DW1820a (BCM94350ZAE) have alot of version (CN-096JNT, CN-0VW3T3, CN-08PKF4, 00JT494 493 and even Chinese Fake version)
 
-        +   Bluetooth maybe unstable, Random Frezze System and it does not support 
+        +   Bluetooth maybe unstable, Random Frezze System
         +   Download File will make Bluetooth unstable
         +   Some machine need to Force 5Ghz to make it support 5Ghz
         +   Some machine when connect to 5Ghz wifi, the bluetooth will unstable
